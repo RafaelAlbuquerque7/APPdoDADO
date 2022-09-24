@@ -1,13 +1,13 @@
 {
   "name": "primeira-pwa-app",
   "version": "1.0.0",
-  "description": "Esta é a primeira pwa, usando vanilla JS",
+  "description": "Dado feito para utlizar no trabalho de SEGURANÇA DA INFORMAÇÃO",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "serve ."
   },
-  "author": "Renato de Souza Garcia",
+  "author": "Rafael ALbuquerque e Guilherme Tombini",
   "license": "ISC",
   "dependencies": {
     "serve": "^13.0.4"

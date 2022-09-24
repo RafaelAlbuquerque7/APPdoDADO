@@ -1,6 +1,6 @@
 {
-    "name": "Minha primeira Progressive Web App",
-    "short_name": "Primeira PWA",
+    "name": "App de dado online",
+    "short_name": "DADO ONLINE",
     "icons": [
         {
             "src": "images/pwa-icon-256.png",
